@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<neighborhood name='funtown'>
+    <block street='waterstreet'>
+	    <house address='1100' name='jones'>
+		    <car type='ford' />
+		</house>
+		<house address='1133' name='smith'>
+		    <car type='subaru' />
+            <car type='toyota' />
+    	</house>
+    </block>
+    <block street='hillstreet'>
+	    <house address='565' name='baker'>
+		    <car type='subaru' />
+	    </house>
+	</block>
+</neighborhood>
